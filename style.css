@@ -1,4 +1,10 @@
-body {
-    background-color: grey;
-    font-family: sans-serif;
- }
+html {
+    background-color:cornflowerblue;
+}
+
+.title {
+    text-align:center;
+    width: 200px;
+    padding: 20px;
+    font-size: 100px;
+}
